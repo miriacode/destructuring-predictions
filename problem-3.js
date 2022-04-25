@@ -7,5 +7,5 @@ const password = '12345';
 const { password: hashedPassword } = person;  
 //Predict the output
 console.log(password); //12345
-console.log(hashedPassword); //*undefined*
+console.log(hashedPassword); ///*undefined*
 
